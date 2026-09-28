@@ -1,0 +1,76 @@
+{
+    "Python Basics": [
+        {
+            "question": "which keyword is used to define function in python?",
+            "options": [
+                "funtion",
+                "def",
+                "func",
+                "define"
+            ],
+            "correct": "def"
+        },
+        {
+            "question": "Which data type is used to store a sequence of items in Python?",
+            "options": [
+                "list",
+                "int",
+                "float",
+                "bool"
+            ],
+            "correct": "list"
+        },
+        {
+            "question": "Which symbol is used to write a comment in Python?",
+            "options": [
+                "//",
+                "/*",
+                "#",
+                "<!--"
+            ],
+            "correct": "#"
+        },
+        {
+            "question": "Which function is used to display output in Python?",
+            "options": [
+                "display()",
+                "show()",
+                "print()",
+                "output()"
+            ],
+            "correct": "print()"
+        },
+        {
+            "question": "Which of these is a valid Python variable name?",
+            "options": [
+                "2name",
+                "my-name",
+                "my_name",
+                "class"
+            ],
+            "correct": "my_name"
+        }
+    ],
+    "general knowledge": [
+        {
+            "question": "who is the present cm of telangana?",
+            "options": [
+                "ktr",
+                "revanth reddy",
+                "kcr",
+                "harish rao"
+            ],
+            "correct": "revanth reddy"
+        },
+        {
+            "question": "the capital city of telangana?",
+            "options": [
+                "khammam",
+                "warangal",
+                "karimnagar",
+                "hyderabad"
+            ],
+            "correct": "hyderabad"
+        }
+    ]
+}
